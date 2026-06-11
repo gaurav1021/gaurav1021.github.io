@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Software Engineer Trainee",
-    cardImage: "assets/images/experience-page/Incedo.jpg",
+    cardImage: "assets/images/experience-page/incedo.jpg",
     place: "Incedo Inc",
     time: "(Jan, 2025 - Oct, 2025)",
     desp: "<li>Designed and developed an iOS application for internal employees management from scratch.</li> <li>Developed various functionality and features of the company's internal web portal.</li>",
